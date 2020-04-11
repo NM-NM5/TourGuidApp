@@ -1,0 +1,169 @@
+<resources>
+    <string name="app_name" translatable="false">TourGuidApp</string>
+
+    <!-- Image Content Description -->
+    <string name="alex_flag">The Formal flag of Alex city</string>
+    <string name="alex_main_image">A picture for famous places in Alexandria</string>
+    <string name="image">Image Describes the location</string>
+
+
+    <!-- Bio of Alexandria City to be Used in History Fragment -->
+    <string name="alex_title">Alexandria City</string>
+    <string name="alex_bio_1">Alexandria is the second-largest city in Egypt and a major economic center.
+        With a population of 5,200,000, Alexandria is the largest city on the Mediterranean, the sixth-largest
+        city in the Arab world and the ninth-largest in Africa. The city extends about 40 km (25 mi) at the
+        northern coast of Egypt along the Mediterranean Sea. Alexandria is a popular tourist destination, and
+        also an important industrial center because of its natural gas and oil pipelines from Suez.</string>
+    <string name="alex_bio_2">Alexandria was founded in c. 331 BC by Alexander the Great king of Macedon
+        and leader of the Greek League of Corinth, during his conquest of the Achaemenid Empire. An Egyptian
+        village named Rhacotis existed at the location and grew into the Egyptian quarter of Alexandria.
+        Alexandria grew rapidly to become an important center of Hellenistic civilization and remained the
+        capital of Ptolemaic Egypt and Roman and Byzantine Egypt for almost 1,000 years, until the Muslim conquest
+        of Egypt in AD 641, when a new capital was founded at Fustat (later absorbed into Cairo). Hellenistic
+        Alexandria was best known for the Lighthouse of Alexandria (Pharos), one of the Seven Wonders of the Ancient
+        World; its Great Library (the largest in the ancient world); and the Necropolis, one of the Seven Wonders
+        of the Middle Ages. Alexandria was the intellectual and cultural center of the ancient Mediterranean world
+        for much of the Hellenistic age and late antiquity.[4] It was at one time the largest city in the ancient
+        world before being eventually overtaken by Rome.</string>
+
+
+    <!-- First Category Hotel and Restaurant -->
+    <!-- First Category titles (hotel_title) -->
+    <string name="hotel_title_01">Sheraton Montazah</string>
+    <string name="hotel_title_02">Helnan Palestine Hotel</string>
+    <string name="hotel_title_03">Paradise Inn Beach Resort</string>
+    <string name="hotel_title_04">HOTEL AND RESTAURANT</string>
+    <string name="hotel_title_05">HOTEL AND RESTAURANT</string>
+    <string name="hotel_title_06">HOTEL AND RESTAURANT</string>
+    <string name="hotel_title_07">HOTEL AND RESTAURANT</string>
+    <string name="hotel_title_08">HOTEL AND RESTAURANT</string>
+    <string name="hotel_title_09">HOTEL AND RESTAURANT</string>
+    <string name="hotel_title_10">HOTEL AND RESTAURANT</string>
+    <!-- First Category Bio (hotel_bio) -->
+    <string name="hotel_Bio_01">Moderate quarters in a choice business lodging with 3 chic Restaurants, a Night club and
+        See-View Pool.</string>
+    <string name="hotel_Bio_02">Polished quarters in an upmarket hotel offering a Private Beach, a Bar and 6 Restaurants.</string>
+    <string name="hotel_Bio_03">Bright beach venue with understated rooms offering Free BreakFast, an Open Air Restaurant
+        and 2 Pools.</string>
+    <string name="hotel_Bio_04">HOTEL AND RESTAURANT</string>
+    <string name="hotel_Bio_05">HOTEL AND RESTAURANT</string>
+    <string name="hotel_Bio_06">HOTEL AND RESTAURANT</string>
+    <string name="hotel_Bio_07">HOTEL AND RESTAURANT</string>
+    <string name="hotel_Bio_08">HOTEL AND RESTAURANT</string>
+    <string name="hotel_Bio_09">HOTEL AND RESTAURANT</string>
+    <string name="hotel_Bio_10">HOTEL AND RESTAURANT</string>
+    <!-- First Category Phone (hotel_phone) -->
+    <string name="hotel_Phone_01">+20 35480550</string>
+    <string name="hotel_Phone_02">+20 35473500</string>
+    <string name="hotel_Phone_03">+20 35650152</string>
+    <string name="hotel_Phone_04">+20 123456789</string>
+    <string name="hotel_Phone_05">+20 123456789</string>
+    <string name="hotel_Phone_06">+20 123456789</string>
+    <string name="hotel_Phone_07">+20 123456789</string>
+    <string name="hotel_Phone_08">+20 123456789</string>
+    <string name="hotel_Phone_09">+20 123456789</string>
+    <string name="hotel_Phone_10">+20 123456789</string>
+    <!-- First Category Maps  (hotel_maps) -->
+    <string name="hotel_Maps_01">31.281246,30.011491</string>
+    <string name="hotel_Maps_02">31.288775,30.018072</string>
+    <string name="hotel_Maps_03">31.288932,30.024738</string>
+    <string name="hotel_Maps_04">31.18,29.925</string>
+    <string name="hotel_Maps_05">31.18,29.925</string>
+    <string name="hotel_Maps_06">31.18,29.925</string>
+    <string name="hotel_Maps_07">31.18,29.925</string>
+    <string name="hotel_Maps_08">31.18,29.925</string>
+    <string name="hotel_Maps_09">31.18,29.925</string>
+    <string name="hotel_Maps_10">31.18,29.925</string>
+
+
+    <!-- Second Category Historical places -->
+    <!-- Second Category titles (h_title) -->
+    <string name="h_title_01">Citadel of Qaitbay</string>
+    <string name="h_title_02">Saint Mark\'s Coptic Orthodox Cathedral</string>
+    <string name="h_title_03">Caesareum of Alexandria</string>
+    <string name="h_title_04">Ras el-Tin Palace</string>
+    <string name="h_title_05">Pompey\'s Pillar</string>
+    <string name="h_title_06">Abu Al-Abbas Al-Mursi Mosque</string>
+    <!-- Second Category Bio (h_bio) -->
+    <string name="h_Bio_01">The Citadel of Qaitbay is a 15th-century defensive fortress located on the Mediterranean sea coast,
+        in Alexandria,Egypt. It was established in 1477 AD by Sultan Al-Ashraf Sayf al-Din Qait Bay. The Citadel is situated on
+        the eastern side of the northern tip of Pharos Island at the mouth of the Eastern Harbour.</string>
+    <string name="h_Bio_02">Saint Mark\'s Coptic Orthodox Cathedral is a Coptic church in Alexandria, Egypt. It is the historical
+        seat of the Pope of Alexandria, the head of the Coptic Orthodox Church. On Palm Sunday, 9 April 2017, an Islamic State
+        operative detonated his suicide belt in the cathedral, killing 17 people and wounding 48.</string>
+    <string name="h_Bio_03">The Caesareum of Alexandria is an ancient temple in Alexandria, Egypt. It was conceived by Cleopatra
+        VII of the Ptolemaic kingdom, the last pharaoh of Ancient Egypt, to honour her first known lover Julius Caesar. The
+        edifice was finished by the Roman Emperor Augustus, after he defeated Mark Antony and Cleopatra in Egypt. He destroyed
+        all traces of Antony in Alexandria, and apparently dedicated the temple to his own cult. Converted to a Christian church
+        in the late 4th century, the Caesareum was the headquarters of Cyril of Alexandria, the Patriarch of Alexandria from 412
+        to 444. The philosopher and mathematician Hypatia was murdered at the Caesareum by a Christian mob in 415; they stripped
+        her naked and tore her to pieces. Elements of the temple survived until the 19th century. Cleopatra\'s Needles, obelisks
+        from the temple, now stand in Central Park in New York City and on the Thames Embankment, in London;. Today, a large
+        statue of the Alexandrine nationalist leader Saad Zaghloul stands on the Caesareum site.</string>
+    <string name="h_Bio_04">Ras El Tin Palace is a palace on the coast of the Mediterranean Sea in Alexandria, Egypt. It is one
+        of the official residences for a serving President of Egypt. Under the Muhammad Ali Dynasty of Egypt and Sudan, it was
+        a royal palace. Ras El Tin Palace is the oldest royal Egyptian palace still in use.</string>
+    <string name="h_Bio_05">Pompey\'s Pillar is the name given to a Roman triumphal column in Alexandria, Egypt. Set up in
+        honourof the augustus Diocletian between 298-302 AD, the giant Corinthian column originally supported a colossal
+        porphyry statue of the emperor in armour. It stands at the eastern side of the temenos of the Serapeum of Alexandria,
+        beside the ruins of the temple of Serapis itself. The erroneous name and association with Pompey stems from historical
+        misreading of the Greek dedicatory inscription on the base</string>
+    <string name="h_Bio_06">The Abu al-Abbas al-Mursi Mosque is an Egyptian mosque in the city of Alexandria. It is dedicated
+        to the 13th century Murcian Andalusi Sufi saint Abul Abbas al-Mursi, whose tomb it contains. It is located in the
+        Anfoushi neighborhood of Alexandria, near the Citadel of Qaitbay.</string>
+    <!-- First Category Maps (h_maps) -->
+    <string name="h_Maps_01">31.214059,29.885636</string>
+    <string name="h_Maps_02">31.198020,29.899315</string>
+    <string name="h_Maps_03">31.200927,29.899401</string>
+    <string name="h_Maps_04">31.199207,29.868639</string>
+    <string name="h_Maps_05">31.782366,29.896301</string>
+    <string name="h_Maps_06">31.205708,29.882384</string>
+
+
+    <!-- Third Category museums -->
+    <!-- Third Category titles (m_) -->
+    <string name="_title_01">Monuments</string>
+    <string name="_title_02">Monuments</string>
+    <string name="_title_03">Monuments</string>
+    <string name="_title_04">Monuments</string>
+    <string name="_title_05">Monuments</string>
+    <string name="_title_06">Monuments</string>
+    <string name="_title_07">Monuments</string>
+    <string name="_title_08">Monuments</string>
+    <string name="_title_09">Monuments</string>
+    <string name="_title_10">Monuments</string>
+    <!-- Third Category Bio (m_) -->
+    <string name="_Bio_01">Monuments</string>
+    <string name="_Bio_02">Monuments</string>
+    <string name="_Bio_03">Monuments</string>
+    <string name="_Bio_04">Monuments</string>
+    <string name="_Bio_05">Monuments</string>
+    <string name="_Bio_06">Monuments</string>
+    <string name="_Bio_07">Monuments</string>
+    <string name="_Bio_08">Monuments</string>
+    <string name="_Bio_09">Monuments</string>
+    <string name="_Bio_10">Monuments</string>
+    <!-- Third Category Phone (m_) -->
+    <string name="_Phone_01">+20 123456789</string>
+    <string name="_Phone_02">+20 123456789</string>
+    <string name="_Phone_03">+20 123456789</string>
+    <string name="_Phone_04">+20 123456789</string>
+    <string name="_Phone_05">+20 123456789</string>
+    <string name="_Phone_06">+20 123456789</string>
+    <string name="_Phone_07">+20 123456789</string>
+    <string name="_Phone_08">+20 123456789</string>
+    <string name="_Phone_09">+20 123456789</string>
+    <string name="_Phone_10">+20 123456789</string>
+    <!-- First Category Maps (m_) -->
+    <string name="_Maps_01">31.18,29.925</string>
+    <string name="_Maps_02">31.18,29.925</string>
+    <string name="_Maps_03">31.18,29.925</string>
+    <string name="_Maps_04">31.18,29.925</string>
+    <string name="_Maps_05">31.18,29.925</string>
+    <string name="_Maps_06">31.18,29.925</string>
+    <string name="_Maps_07">31.18,29.925</string>
+    <string name="_Maps_08">31.18,29.925</string>
+    <string name="_Maps_09">31.18,29.925</string>
+    <string name="_Maps_10">31.18,29.925</string>
+
+</resources>
